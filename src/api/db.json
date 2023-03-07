@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Developer",
+      "email": "Developer@email.com",
+      "password": "12345@testing",
+      "id": 1
+    }
+  ],
+  "restuarant": [
+    {
+      "name": "Pizza Inn",
+      "address": "Mbabane",
+      "contacts": "4758814",
+      "id": 4
+    }
+  ]
+}
